@@ -1,0 +1,22 @@
+{
+  "company": {
+    "name": "HGHHRPOE",
+    "scanner_path": "E:\\customer\\Universal_Solutions_Billing_Project\\assets\\payment_qr.png",
+    "address": "ppunrvc gkjrlitn8 f mkriot5",
+    "phone": "9970899918 / 8275524530",
+    "email": "barcode@unisols.in",
+    "gstin": "27BZLPP3996F1ZO",
+    "pan": "BZLPP3996F",
+    "state": "27-Maharashtra",
+    "bank": "Name: HDFC BANK, BAWDHAN - PUNE\nAccount No.: 50200050078331\nIFSC code: HDFC0002690\nAccount Holder Name: UNfe8 rtei",
+    "logo_url": "https://unisols.in/",
+    "logo_path": "E:\\customer\\Universal_Solutions_Billing_Project\\assets\\logo.jpeg"
+  },
+  "email": {
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "use_tls": true
+  }
+}
